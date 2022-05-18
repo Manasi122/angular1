@@ -1,0 +1,11 @@
+{"level":"error","message":"Error in get all match details TypeError: Cannot read properties of undefined (reading 'info')"}
+{"level":"error","message":"Error in creating match you enter"}
+{"level":"error","message":"Error in creating match you enter"}
+{"level":"error","message":"Error in creating match you enter"}
+{"level":"error","message":"####"}
+{"level":"error","message":"####"}
+{"level":"error","message":"####"}
+{"level":"error","message":"User: MongooseError: Operation `users.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"User: MongooseError: Operation `users.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"User: MongooseError: Operation `users.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"User: MongooseError: Operation `users.find()` buffering timed out after 10000ms"}

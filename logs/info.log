@@ -1,0 +1,20 @@
+info: Apr-13-2022 12:47:15: 	Server started at 3000
+error: Apr-13-2022 12:48:43: 	Error in get all match details TypeError: Cannot read properties of undefined (reading 'info')
+info: Apr-13-2022 13:50:45: 	Server started at 3000
+info: Apr-13-2022 13:52:27: 	Server started at 3000
+info: Apr-13-2022 14:20:40: 	Server started at 3000
+info: Apr-13-2022 14:28:15: 	Server started at 3000
+info: Apr-14-2022 12:39:07: 	Server started at 3000
+error: Apr-20-2022 11:42:52: 	Error in creating match you enter
+error: Apr-20-2022 11:47:16: 	Error in creating match you enter
+error: Apr-20-2022 11:47:18: 	Error in creating match you enter
+error: Apr-20-2022 11:48:38: 	####
+error: Apr-20-2022 11:48:44: 	####
+error: Apr-20-2022 11:48:47: 	####
+error: Apr-25-2022 14:49:25: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
+error: Apr-25-2022 14:56:24: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
+error: Apr-25-2022 15:12:00: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
+error: May-02-2022 10:51:11: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
+error: May-02-2022 10:51:23: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
+error: May-02-2022 10:51:36: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
+error: May-09-2022 12:09:56: 	User: MongooseError: Operation `users.find()` buffering timed out after 10000ms
