@@ -1,0 +1,49 @@
+{
+  "name": "MHousie API",
+  "version": "1.0.0",
+  "description": "M Housie",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "servers": "nodemon index.js",
+    "starts": "node index.js",
+    "dev": "nodemon --ignore feedback.json index.js"
+  },
+  "author": "Synergy Technology Services Pvt. Ltd",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^6.19.6",
+    "@sentry/tracing": "^6.19.6",
+    "all": "0.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.4",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.16.3",
+    "express-validator": "^6.2.0",
+    "gravatar": "^1.8.1",
+    "http-errors": "^1.7.3",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.13.14",
+    "nodemailer": "^6.7.3",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.0",
+    "swagger-jsdoc": "^6.2.1",
+    "swagger-ui-express": "^4.4.0",
+    "validator": "^13.7.0",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "nodemon": "^2.0.15",
+    "prettier": "^1.18.2"
+  }
+}
